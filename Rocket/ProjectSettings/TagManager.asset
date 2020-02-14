@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bounds
+  - Bounder
+  - Meteor
+  - Bomb
+  - AlienBomb
+  - HomingMissile
+  - RedBomb
+  - AlienBullet
+  - Rocket
+  - Snaw
+  - Aliens
+  - Tiles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1378546053
+    locked: 0
+  - name: Rocket
+    uniqueID: 2100863641
+    locked: 0
+  - name: Stars
+    uniqueID: 3193811221
+    locked: 0
+  - name: meteor
+    uniqueID: 53469471
+    locked: 0
+  - name: Blast
+    uniqueID: 4017528855
+    locked: 0
+  - name: AlienCar
+    uniqueID: 1783351365
+    locked: 0
+  - name: Bomb
+    uniqueID: 2950794501
+    locked: 0
+  - name: HealthBar
+    uniqueID: 3804220239
+    locked: 0
